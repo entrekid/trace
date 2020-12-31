@@ -4,9 +4,9 @@
 
 * I really care 'bout egpu.io(the coolest community for egpu users), but not many tutorials worked on my system(actually almost broke it..)
 
-* The new gpu users(as RTX 30 series) should be care for # of pins. My system didn't detect any of my machines so at first I just concerned about my os kernels but lots of my tries gonna failed.(e.g : dockerizing, vmware, managing my boot-loader using efi-bootloader. but none of these worked : but I heard lots of successful cases using machines under 20 series)
+* The new gpu users(as RTX 30 series) should be care for # of pins. My system didn't detect any of my machines so at first I just concerned about my os kernels but lots of tries gonna failed.(e.g : dockerizing, vmware, managing my boot-loader using efi-bootloader. but none of these worked : but I heard lots of successful cases using machines under 20 series)
 
-* And always remember making virtual environment time machine both of your os and for frameworks. 
+* And always remember making virtual environment or time machine both of your os and for frameworks. 
 
 * Virtual environment should locate on python==3.8(cuz there are no matched version of tensorflow if using version 3.9 of python)
 
