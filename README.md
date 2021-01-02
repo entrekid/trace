@@ -18,3 +18,5 @@
 
 * There are header issues when you use tensorflow or torch using latest anaconda versions(as in numpy 1.19.4)
 Should delete that of version(pip uninstall numpy) and reinstall 1.19.3(pip install numpy==1.19.3).
+
+* Lightgbm-gpu version install : mingw64, cmake, microsoft visual studio tools
